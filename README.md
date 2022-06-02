@@ -1,1 +1,1 @@
-# Macro
+A macro is an automated input sequence that imitates keystrokes or mouse actions. A macro is typically used to replace a repetitive series of keyboard and mouse actions and used often in spreadsheets and word processing applications like MS Excel and MS Word. The file extension of a macro is commonly . MAC.
